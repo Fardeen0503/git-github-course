@@ -1,3 +1,3 @@
 # DEMO
 
-DAY1--GIT & GITHUB
+DAY1--Git & Github
